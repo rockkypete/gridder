@@ -1,0 +1,11 @@
+{
+  "name": "gridder",
+  "version": "1.0.0",
+  "description": "Dynamic DOM layout changing application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Abah",
+  "license": "ISC"
+}
