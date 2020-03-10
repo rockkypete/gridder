@@ -85,3 +85,4 @@ const domStructure = {
 $('#btn').click(()=> {
         domStructure.changeLayout();
 });
+
